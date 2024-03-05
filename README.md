@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://app.screenclip.com/iZF8" alt="project-screenshot" width="400" height="400/">
+<img src="https://app.screenclip.com/iZF8/screenshot-pattern2png" alt="project-screenshot" width="400" height="400/">
 
   
   
