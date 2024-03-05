@@ -5,7 +5,9 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://app.screenclip.com/iZF8/screenshot-pattern2png" alt="project-screenshot" width="400" height="400/">
-
+<div align="center">
+    <img src="screenshot_pattern_2.png" width="400px"</img> 
+</div>
   
   
 <h2>🧐 Features</h2>
