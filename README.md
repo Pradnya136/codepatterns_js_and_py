@@ -4,12 +4,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://app.screenclip.com/iZF8/screenshot-pattern2png" alt="project-screenshot" width="400" height="400/">
-<div align="center">
-    <img src="screenshot_pattern_2.png" width="400px"</img> 
-</div>
+
   
-  
+  ![Screenshot_pattern2](https://github.com/Pradnya136/codepatterns_js_and_py/assets/43560888/b5e0335b-7d79-4e10-b28a-b58f510f3f84)
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
